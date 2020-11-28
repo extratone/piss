@@ -8,4 +8,6 @@ I would add that - if this were wholly, truly the way the company intends to ope
 
 When I encountered the opportunity to drive one very briefly a year later, I thought myself very clever in remarking "the Tesla Model S would be the best car in the world right now if it were powered by an internal combustion engine." It *was* a genuine revolution if only because it was the only company in [???] years to successfully design, produce, and sell a mainstream automotive product. DeLorean, Bricklin... I wish they had, instead (especially the latter.)
 
-This year, according to Johnny Liberman, Tesla is expected to sell 200,000 motorcars, which - as he repeats to Matt - *nobody* thought was at all likely.
+This year, according to Johnny Liberman, Tesla is expected to sell 200,000 motorcars, which - as he repeats to Matt - *nobody* thought was at all likely. Frankly, I had hoped they would do literally anything else than what they have since the Model S-X because crossovers are literally the worst scam in recent auto industry history, the 3 because it was underwhelming and apparently made poorly. The "Roadster???" The one they sent to space ironically? The Cybertruck because it is surely going to be stupid, if it is ever actually produced, that is, and the Semi because Hydrogen seems almost certainly worth waiting for in the case of longhaul trucking.
+
+On the other hand, that number is a quantification of the pressure the legacy companies are feeling from Tesla's suceess, which - Gourd-wiling - 

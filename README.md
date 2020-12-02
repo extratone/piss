@@ -1,11 +1,14 @@
 # For God's Sake, Just Sit Down to Piss
 
-A distinctly non-academic, non-fiction, self-help/advice-ish book for young American men which I’ve tinkered with since 2015 commenting on behavior I have personally witnessed from white, straight, CIS American males ages 15-35.
+## A distinctly non-academic, non-fiction, self-help/advice-ish book for young American men
 
-As an experiment, I plan to make my progress publicly available to whomever may wish to critique or otherwise input. 
+...which I’ve tinkered with since 2015 commenting on behavior I have personally witnessed from white, straight, CIS American males ages 15-35.
 
-* The [working draft](https://eileenlong-my.sharepoint.com/:w:/g/personal/david_eileenlonglcsw_com/EX8LNxS3dtpHisjBIUvv-WcBRR0WigNk94H0VUPDY5-WXg?e=SQD7Xc) (Microsoft Word)
-* The [master notes index](https://www.notion.so/rotund/For-God-s-Sake-Just-Sit-Down-to-Piss-5020d359735f4e589c068973bfceee47) (Notion)
+As an experiment, I plan to make my progress publicly available to whomever may wish to critique or otherwise input via this GitHub repository. 
+
+* The **[working draft](https://eileenlong-my.sharepoint.com/:w:/g/personal/david_eileenlonglcsw_com/EX8LNxS3dtpHisjBIUvv-WcBRR0WigNk94H0VUPDY5-WXg?e=SQD7Xc)** (Microsoft Word)
+* The [**master notes index**](https://www.notion.so/rotund/For-God-s-Sake-Just-Sit-Down-to-Piss-5020d359735f4e589c068973bfceee47) (Notion)
+* The **[GitHub repository](https://github.com/extratone/piss)**
 
 | Variable         | Input                                                        |
 | ---------------- | ------------------------------------------------------------ |
@@ -13,13 +16,12 @@ As an experiment, I plan to make my progress publicly available to whomever may 
 | Key Topics/Scope | Sincerity, Hero Worship, Self-Awareness, Cultural Context, Relationships |
 | NOT in Scope     | Nutrition, Fitness, Parenting, Professional Life, Hobbies    |
 
-
-
 ## Topics
 
-- The romanticism of Apathy.
-- An argument for greater effort placed into general appearances (style.)
+- The romanticism of Apathy and The New Sincerity.
+- An argument for greater effort placed into general appearances (style,) and how to nurture one's healthy vanity.
 - Why catcalling/inappropriate propositioning is detrimental for all parties involved.
+- Why worshipping Elon Musk makes you look like an idiot.
 - A plea/pseudoacademic argument against standing up to piss.
 
 ***

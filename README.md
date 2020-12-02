@@ -7,6 +7,14 @@ As an experiment, I plan to make my progress publicly available to whomever may 
 * The [working draft](https://eileenlong-my.sharepoint.com/:w:/g/personal/david_eileenlonglcsw_com/EX8LNxS3dtpHisjBIUvv-WcBRR0WigNk94H0VUPDY5-WXg?e=SQD7Xc) (Microsoft Word)
 * The [master notes index](https://www.notion.so/rotund/For-God-s-Sake-Just-Sit-Down-to-Piss-5020d359735f4e589c068973bfceee47) (Notion)
 
+| Variable         | Input                                                        |
+| ---------------- | ------------------------------------------------------------ |
+| Target Audience  | Young white, CISgendered men ages 15-35                      |
+| Key Topics/Scope | Sincerity, Hero Worship, Self-Awareness, Cultural Context, Relationships |
+| NOT in Scope     | Nutrition, Fitness, Parenting, Professional Life, Hobbies    |
+
+
+
 ## Topics
 
 - The romanticism of Apathy.

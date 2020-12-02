@@ -9,6 +9,7 @@ As an experiment, I plan to make my progress publicly available to whomever may 
 * The **[working draft](https://eileenlong-my.sharepoint.com/:w:/g/personal/david_eileenlonglcsw_com/EX8LNxS3dtpHisjBIUvv-WcBRR0WigNk94H0VUPDY5-WXg?e=SQD7Xc)** (Microsoft Word)
 * The [**master notes index**](https://www.notion.so/rotund/For-God-s-Sake-Just-Sit-Down-to-Piss-5020d359735f4e589c068973bfceee47) (Notion)
 * The **[GitHub repository](https://github.com/extratone/piss)**
+* The **[GoFundMe Campaign](https://gofundme.com/f/sit-down-to-piss)**
 
 | Variable         | Input                                                        |
 | ---------------- | ------------------------------------------------------------ |

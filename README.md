@@ -1,3 +1,5 @@
+![For God's Sake, Just Sit Down to Piss Banner](https://i.snap.as/HZcAV8dc.png)
+
 # For God's Sake, Just Sit Down to Piss
 
 ## A distinctly non-academic, non-fiction, self-help/advice-ish book for young American men

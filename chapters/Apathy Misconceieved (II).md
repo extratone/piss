@@ -1,0 +1,15 @@
+# Apathy Misconceieved (II)
+
+American society worships apathy. You must accept this assumption before you proceed.[[1\]](#_ftn1) This worship is weaved throughout contemporary American music – in hip-hop and rap, especially – through our television, our cinema, and our politics. I would hypothesize we romanticize it so much largely because we think of it as a true escape from all criticism – a means of immunity from the opinions of other people, which we believe will grant us immense power over them. Even the Christian bible contains numerous passages which argue in favor of forsaking the opinion of other people for what God thinks. Galatians 1:10 is perhaps the most explicit: “Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ.” It is far from an obscure idea: I have personally been audience to many sermons including the theme as well as party to mention of it by individual believers. For God’s people, the effective result is the same as those of other beliefs who hold apathy in high regard, generally: power in immunity from those with the capability to directly express it.
+
+*Whatever you’re doing, it’s okay*. I have encountered a great many people – mostly men, though there are definitely a number of memorable women – who have at some point expressed to me variations of “I really don’t care what other people think,” with a very special sort of insistence, most often with an implicit suggestion that they believe themselves truly unusual in this regard. Analysis of the net societal impact this collective delusion has had is beyond the scope of this volume, but I suspect a dear personal relationship of mine serves as both a worthy cultural sample and a useful metaphor.
+
+Joseph Wayne McVey IV
+
+If there is one idea of mine you ever engage with – in this book or otherwise – it is best distilled in this single sentence: **you do not \*actually\* want to attain a state of true apathy**, trust me. It is extremely unhealthy, miserable, and alienating. I have existed for an excruciatingly long time trapped in a state of being truly unable to care about anything in the face of a great, varying effort to do so. It is very far from the immunity imbued in terms like *carefree* – in reality, it is manifested in extreme depression. It is less *immunity* than it is *distance* from an essential part of life. If I ever was in a mindset of explicitly idealizing life without a care, it was almost too long ago to remember and likely my greatest regret. However I ended up in this state – by nature, nurture, study, habit, regimen, or even coercion – my utter inability to connect with thoughts held by family, friends, colleagues, or parties of all intention regarding my actions, work, or ideas has undebatably crippled me and formed an immense obstacle in the way of much of what I have wished to accomplish in my life.
+
+
+
+------
+
+[[1\]](#_ftnref1) By “must,” I mean simply that I see very little point in continuing to read this particular argument if you sincerely disagree with this assumption.
